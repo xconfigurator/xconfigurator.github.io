@@ -1,4 +1,4 @@
-# xconfigurator.github.io.vuepress
+# xconfigurator.github.io
 
 ## 参考
 [https://vuepress.vuejs.org/zh/guide/getting-started.html](https://vuepress.vuejs.org/zh/guide/getting-started.html)
